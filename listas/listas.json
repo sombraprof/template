@@ -1,0 +1,8 @@
+[
+  {
+    "titulo": "Lista Exemplo",
+    "descricao": "Primeira lista para testar a UI de exercícios.",
+    "arquivo": "lista1.json",
+    "mostrar_solucoes": false
+  }
+]
