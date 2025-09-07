@@ -1,0 +1,12 @@
+{
+  "defaults": {
+    "standard": "WCAG2AA",
+    "timeout": 60000,
+    "hideElements": ".sr-only"
+  },
+  "urls": [
+    "http://localhost:8080/",
+    "http://localhost:8080/politica_uso/politica-uso.html"
+  ]
+}
+

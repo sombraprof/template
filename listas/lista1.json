@@ -1,8 +1,0 @@
-{
-  "id": "lista1",
-  "titulo": "Lista Exemplo",
-  "descricao": "Exercícios rápidos.",
-  "questoes": [
-    { "id": 1, "enunciado": "O que é uma classe?", "dica": "Molde de objetos", "solucao": "Uma classe define estrutura e comportamentos (métodos)." }
-  ]
-}
